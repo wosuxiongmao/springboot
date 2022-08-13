@@ -3,6 +3,7 @@
 使用mybatis-plus读取数据库数据，传到前端渲染数据
 
 mysql表设计如下：
+
 function，计划的功能数据
 ![image](https://user-images.githubusercontent.com/22828956/184473014-d0b4297b-d1af-457c-a23e-c377f44e92f4.png)
 
